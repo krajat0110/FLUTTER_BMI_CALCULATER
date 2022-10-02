@@ -15,4 +15,5 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-https://www.canva.com/design/DAFN5PiAJzY/yokaXK3ZeMtkK_ZpU1g4FQ/view?utm_content=DAFN5PiAJzY&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
+
+![Purple App Phone Mockup Sales Marketing Presentation](https://user-images.githubusercontent.com/60007226/193455969-bba3a4be-da9b-46ad-92a8-ee04e80a9f3c.gif)
