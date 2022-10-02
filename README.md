@@ -15,10 +15,6 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-UI =>
-
-<img width="378" alt="image" src="https://user-images.githubusercontent.com/60007226/193450512-d42432ba-9fb8-4cd7-9f17-30d582d61e9a.png">           
-RESULT =>
-<img width="376" alt="image" src="https://user-images.githubusercontent.com/60007226/193450589-a423a359-4583-45ff-875a-fda8e857d236.png">
+![image](https://user-images.githubusercontent.com/60007226/193450727-e8716209-455a-4203-ab63-faa50f0843e0.png)
 
 
